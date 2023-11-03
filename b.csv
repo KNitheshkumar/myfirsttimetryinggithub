@@ -113,7 +113,7 @@ pk, name, city
 113, Vinoba Bhave University, 94
 114, 270 University, 270
 115, Davangere University, 276
-116,  Gulbarga University, 275
+116, Gulbarga University, 275
 117, Kannada University, 272
 118, Karnatak University, 301
 119, Karnataka Samskrit University, 270
@@ -134,150 +134,151 @@ pk, name, city
 134, Visvesvaraya Technological University, 274
 135, Vijayanagara Sri Krishnadevaraya University, 277
 136, Calicut University, 317
-137, Cochin University of Science and Technology316
-138, Kannur University, Kannur
-139, Kerala Agricultural University, Thrissur
-140, Kerala University of Fisheries and Ocean Studies316
-141, Kerala University of Health Sciences, Thrissur
-142, Kerala Veterinary and Animal Sciences University, Wayanad
-143, Mahatma Gandhi University, Kottayam
-144, National University of Advanced Legal Studies316
-145, Sree Sankaracharya University of Sanskrit, Kalady
-146, University of Kerala, Thiruvananthapuram
-147, Awdhesh Pratap Singh University, Rewa
-148, Barkatullah University, Bhopal
-149, Devi Ahilya University, Indore
-150, Jawaharlal Nehru Agricultural University, Jabalpur
-151, Jiwaji University, Gwalior
-152, Madhya Pradesh Bhoj Open University, Bhopal
-153, Maharishi Mahesh Yogi Vedic Vishwavidyalaya, Katni
-154, Maharshi Panini Sanskrit University, Ujjain
-155, Mahatma Gandhi Chitrakoot Gramoday University, Chitrakoot
-156, Makhanlal Chaturvedi National University of Journalism, Bhopal
-157, National Law Institute University, Bhopal
-158, Rajiv Gandhi Technical University, Bhopal
-159, Rani Durgavati University, Jabalpur
-160, Madhya Pradesh Pashu-Chikitsa Vigyan Vishwavidyalaya, Jabalpur
-161, Vikram University, Ujjain
-162, Dr. Babasaheb Ambedkar Marathwada University, Aurangabad
-163, Dr. Babasaheb Ambedkar Technological University, Lonere
-164, Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth, Dapoli
-165, Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola
-166, Kavi Kulguru Kalidas Sanskrit Vishwavidyalaya, Nagpur
-167, Maharashtra Animal and Fishery Sciences University, Nagpur
-168, Maharashtra University of Health Sciences, Nashik
-169, Mahatma Phule Krishi Vidyapeeth, Rahuri
-170, Marathwada Agricultural University, Parbhani
-171, North Maharashtra University, Jalgaon
-172, Rashtrasant Tukadoji Maharaj Nagpur University, Nagpur
-173, Sant Gadge Baba Amravati University, Amravati
-174, Shivaji University, Kolhapur
-175, Shreemati Nathibai Damodar Thackersey Women's University, Mumbai
-176, Solapur University, Solapur
-177, Swami Ramanand Teerth Marathwada University, Nanded
-178, University of Mumbai, Mumbai
-179, University of Pune, Pune
-180, Yashwantrao Chavan Maharashtra Open University, Nashik
-181, Berhampur University, Berhampur
-182, Biju Patnaik University of Technology, Rourkela
-183, Fakir Mohan University, Balasore
-184, National Law University Orissa, Cuttack
-185, North Orissa University, Baripada
-186, Orissa University of Agriculture and Technology, Bhubaneswar
-187, Ravenshaw University, Cuttack
-188, Sambalpur University, Sambalpur
-189, Shri Jagannath Sanskrit Vishvavidyalaya, Puri
-190, Utkal University, Bhubaneswar
-191, Utkal University of Culture, Bhubaneswar
-192, Veer Surendra Sai University of Technology Burla, Sambalpur
-193, Baba Farid University of Health Sciences, Faridkot
-194, Guru Angad Dev Veterinary and Animal Sciences University, Ludhiana
-195, Guru Nanak Dev University, Amritsar
-196, Punjab Agricultural University, Ludhiana
-197, Punjab Technical University, Kapurthala
-198, Punjabi University, Patiala
-199, Rajiv Gandhi National University of Law, Patiala
-200, Jagadguru Ramanadacharya Rajasthan Sanskrit University, Jaipur
-201, Jai Narain Vyas University, Jodhpur
-202, Maharaja Ganga Singh University, Bikaner
-203, Maharana Pratap University of Agriculture and Technology, Udaipur
-204, Maharshi Dayanand Saraswati University, Ajmer
-205, Mohanlal Sukhadia University, Udaipur
-206, National Law University Jodhpur, Jodhpur
-207, Rajasthan Agricultural University, Bikaner
-208, Rajasthan Ayurved University, Jodhpur
-209, Rajasthan Technical University, Kota
-210, Rajasthan University of Health Sciences, Jaipur
-211, University of Kota, Kota
-212, University of Rajasthan, Jaipur
-213, Vardhaman Mahaveer Open University, Kota
+137, Cochin University of Science and Technology,316
+138, Kannur University, 321
+139, Kerala Agricultural University, 318
+140, Kerala University of Fisheries and Ocean Studies,316
+141, Kerala University of Health Sciences, 318
+142, Kerala Veterinary and Animal Sciences University, 334
+143, Mahatma Gandhi University, 320
+144, National University of Advanced Legal Studies,316
+145, Sree Sankaracharya University of Sanskrit, 321
+146, University of Kerala, 315
+147, Awdhesh Pratap Singh University, 165
+148, Barkatullah University, 349
+149, Devi Ahilya University, 350
+150, Jawaharlal Nehru Agricultural University, 351
+151, Jiwaji University, 352
+152, Madhya Pradesh Bhoj Open University, 349
+153, Maharishi Mahesh Yogi Vedic Vishwavidyalaya, 359
+154, Maharshi Panini Sanskrit University, 353
+155, Mahatma Gandhi Chitrakoot Gramoday University, 368
+156, Makhanlal Chaturvedi National University of Journalism, 349
+157, National Law Institute University, 349
+158, Rajiv Gandhi Technical University, 349
+159, Rani Durgavati University, 351
+160, Madhya Pradesh Pashu-Chikitsa Vigyan Vishwavidyalaya, 351
+161, Vikram University, 353
+162, Dr. Babasaheb Ambedkar Marathwada University, 102
+163, Dr. Babasaheb Ambedkar Technological University, 118
+164, Dr. Balasaheb Sawant Konkan Krishi Vidyapeeth, 40
+165, Dr. Panjabrao Deshmukh Krishi Vidyapeeth, 414
+166, Kavi Kulguru Kalidas Sanskrit Vishwavidyalaya, 401
+167, Maharashtra Animal and Fishery Sciences University, 401
+168, Maharashtra University of Health Sciences, 403
+169, Mahatma Phule Krishi Vidyapeeth, 417
+170, Marathwada Agricultural University, 420
+171, North Maharashtra University, 416
+172, Rashtrasant Tukadoji Maharaj Nagpur University, 401
+173, Sant Gadge Baba Amravati University, 411
+174, Shivaji University, 413
+175, Shreemati Nathibai Damodar Thackersey Women's University, 399
+176, Solapur University, 408
+177, Swami Ramanand Teerth Marathwada University, 413
+178, University of Mumbai, 399
+179, University of Pune, 400
+180, Yashwantrao Chavan Maharashtra Open University, 403
+181, Berhampur University, 555
+182, Biju Patnaik University of Technology, 510
+183, Fakir Mohan University, 515
+184, National Law University Orissa, 509
+185, North Orissa University, 518
+186, Orissa University of Agriculture and Technology, 508
+187, Ravenshaw University, 509
+188, Sambalpur University, 512
+189, Shri Jagannath Sanskrit Vishvavidyalaya, 513
+190, Utkal University, 508
+191, Utkal University of Culture, 508
+192, Veer Surendra Sai University of Technology Burla, 512
+193, Baba Farid University of Health Sciences, 579
+194, Guru Angad Dev Veterinary and Animal Sciences University, 558
+195, Guru Nanak Dev University, 557
+196, Punjab Agricultural University, 558
+197, Punjab Technical University, 566
+198, Punjabi University, 560
+199, Rajiv Gandhi National University of Law, 560
+200, Jagadguru Ramanadacharya Rajasthan Sanskrit University, 582
+201, Jai Narain Vyas University, 583
+202, Maharaja Ganga Singh University, 585
+203, Maharana Pratap University of Agriculture and Technology, 587
+204, Maharshi Dayanand Saraswati University, 586
+205, Mohanlal Sukhadia University, 587
+206, National Law University Jodhpur, 583
+207, Rajasthan Agricultural University, 585
+208, Rajasthan Ayurved University, 583
+209, Rajasthan Technical University, 584
+210, Rajasthan University of Health Sciences, 582
+211, University of Kota, 584
+212, University of Rajasthan, 582
+213, Vardhaman Mahaveer Open University, 584
 214, Aliah University,832
-215, Bengal Engineering and Science University Shibpur, Howrah
-216, Bidhan Chandra Krishi Viswavidyalaya, Nadia
+215, Bengal Engineering and Science University Shibpur, 639
+216, Bidhan Chandra Krishi Viswavidyalaya, 198
 217, Jadavpur University,832
 218, Netaji Subhas Open University,832
 219, Presidency University Kolkata,832
 220, Rabindra Bharati University,832
-221, Sidho Kanho Birsha University, Purulia
-222, University of Burdwan, Bardhaman
+221, Sidho Kanho Birsha University, 857
+222, University of Burdwan, 836
 223, University of Calcutta,832
-224, Madurai Kamaraj University - Madurai, Tamil Nadu
-225, Manonmaniam Sundaranar University - Tirunelveli, Tamil Nadu
-226, Mother Teresa Women's University - Kodaikanal, Tamil Nadu
-227, Periyar University - Salem, Tamil Nadu
-228, Tamil University - Thanjavur, Tamil Nadu
-229, Tamil Nadu Agricultural University - Coimbatore, Tamil Nadu
-230, Tamil Nadu Dr. Ambedkar Law University - Chennai, Tamil Nadu
-231, Tamil Nadu Dr. M.G.R. Medical University - Chennai, Tamil Nadu
-232, Tamil Nadu Open University - Chennai, Tamil Nadu
-233, Tamil Nadu Physical Education and Sports University - Chennai, Tamil Nadu
-234, Tamil Nadu Teacher Education University - Chennai, Tamil Nadu
-235, Tamil Nadu Veterinary and Animal Sciences University - Chennai, Tamil Nadu
-236, Thiruvalluvar University - Vellore, Tamil Nadu
-237, University of Madras - Chennai, Tamil Nadu
-238, Bundelkhand University - Jhansi, Uttar Pradesh
-239, Chandra Shekhar Azad University of Agriculture and Technology - Kanpur, Uttar Pradesh
-240, Chaudhary Charan Singh University - Meerut, Uttar Pradesh
-241, Chhatrapati Shahuji Maharaj Medical University - Lucknow, Uttar Pradesh
-242, Chhatrapati Shahu Ji Maharaj University - Kanpur, Uttar Pradesh
-243, Deen Dayal Upadhyay Gorakhpur University - Gorakhpur, Uttar Pradesh
-244, Dr. B. R. Ambedkar University - Agra, Uttar Pradesh
-245, Dr. Ram Manohar Lohia Avadh University - Faizabad, Uttar Pradesh
-246, Dr. Ram Manohar Lohia National Law University - Lucknow, Uttar Pradesh
-247, Dr. Shakuntala Misra Rehabilitation University - Lucknow, Uttar Pradesh
-248, Gautam Buddha University - Greater Noida, Uttar Pradesh
-249, Gautam Buddh Technical University - Lucknow, Uttar Pradesh
-250, M. J. P. Rohilkhand University - Bareilly, Uttar Pradesh
-251, Mahamaya Technical University - Noida, Uttar Pradesh
-252, Mahatma Gandhi Kashi Vidyapeeth - Varanasi, Uttar Pradesh
-253, Manyavar Sri Kanshi Ram Ji Urdu - Lucknow, Uttar Pradesh
-254, Narendra Dev University of Agriculture and Technology - Faizabad, Uttar Pradesh
-255, Sampurnanand Sanskrit University - Varanasi, Uttar Pradesh
-256, Sardar Vallabhbhai Patel University of Agriculture and Technology - Meerut, Uttar Pradesh
-257, University of Lucknow - Lucknow, Uttar Pradesh
-258, Uttar Pradesh King George's University of Dental Sciences - Lucknow, Uttar Pradesh
-259, Uttar Pradesh Rajarshi Tandon Open University - Allahabad, Uttar Pradesh
-260, Veer Bahadur Singh Purvanchal University - Jaunpur, Uttar Pradesh
-261, Doon University - Dehradun, Uttarakhand
-262, G. B. Pant University of Agriculture and Technology - Pantnagar, Uttarakhand
-263, Kumaun University - Nainital, Uttarakhand
-264, Uttarakhand Open University - Haldwani, Uttarakhand
-265, Uttarakhand Technical University - Dehradun, Uttarakhand
-266, Uttaranchal Sanskrit University - Haridwar, Uttarakhand
-267, Aliah University - Kolkata, West Bengal
-268, Bengal Engineering and Science University Shibpur - Howrah, West Bengal
-269, Bidhan Chandra Krishi Viswavidyalaya - Nadia, West Bengal
-270, Jadavpur University - Kolkata, West Bengal
-271, Netaji Subhas Open University - Kolkata, West Bengal
-272, Presidency University Kolkata - Kolkata, West Bengal
-273, Rabindra Bharati University - Kolkata, West Bengal
-274, Sidho Kanho Birsha University - Purulia, West Bengal
-275, University of Burdwan - Bardhaman, West Bengal
-276, University of Calcutta - Kolkata, West Bengal
-277, University of Gour Banga - Malda, West Bengal
-278, University of Kalyani - Kalyani, West Bengal
-279, University of North Bengal - Siliguri, West Bengal
-280, Uttar Banga Krishi Vishwavidyalaya - Cooch Behar, West Bengal
-281, Vidyasagar University - Midnapore, West Bengal
-282, West Bengal State University - Barasat, West Bengal
-283, West Bengal National University of Juridical Sciences - Kolkata, West Bengal
+224, Madurai Kamaraj University, 658
+225, Manonmaniam Sundaranar University, 661
+226, Mother Teresa Women's University, 742
+227, Periyar University, 660
+228, Tamil University, 685
+229, Tamil Nadu Agricultural University, 657
+230, Tamil Nadu Dr. Ambedkar Law University, 656
+231, Tamil Nadu Dr. M.G.R. Medical University, 656
+232, Tamil Nadu Open University, 656
+233, Tamil Nadu Physical Education and Sports University, 656
+234, Tamil Nadu Teacher Education University, 656
+235, Tamil Nadu Veterinary and Animal Sciences University, 656
+236, Thiruvalluvar University, 664
+237, University of Madras, 656
+238, Bundelkhand University, 609
+239, Chandra Shekhar Azad University of Agriculture and Technology, 763
+240, Chaudhary Charan Singh University, 766
+241, Chhatrapati Shahuji Maharaj Medical University, 761
+242, Chhatrapati Shahu Ji Maharaj University, 763
+243, Deen Dayal Upadhyay  University, 793
+244, Dr. B. R. Ambedkar University,765
+245, Dr. Ram Manohar Lohia Avadh University, 792
+246, Dr. Ram Manohar Lohia National Law University, 761
+247, Dr. Shakuntala Misra Rehabilitation University, 761
+248, Gautam Buddha University, 768
+249, Gautam Buddh Technical University, 761
+250, M. J. P. Rohilkhand University, 769
+251, Mahamaya Technical University, 768
+252, Mahatma Gandhi Kashi Vidyapeeth, 767
+253, Manyavar Sri Kanshi Ram Ji Urdu, 761
+254, Narendra Dev University of Agriculture and Technology, 792
+255, Sampurnanand Sanskrit University, 767
+256, Sardar Vallabhbhai Patel University of Agriculture and Technology, 766
+257, University of Lucknow, 761
+258, King George's University of Dental Sciences, 761
+259, Rajarshi Tandon Open University, 764
+260, Veer Bahadur Singh Purvanchal University, 824
+261, Doon University, 795
+262, G. B. Pant University of Agriculture and Technology, 817
+263, Kumaun University, 798
+264, Uttarakhand Open University, 801
+265, Uttarakhand Technical University, 795
+266, Uttaranchal Sanskrit University, 796
+267, Aliah University, 832
+268, Bengal Engineering and Science University , 832
+269, Bidhan Chandra Krishi Viswavidyalaya, 198
+270, Jadavpur University, 832
+271, Netaji Subhas Open University, 832
+272, Presidency University Kolkata, 832
+273, Rabindra Bharati University, 832
+274, Sidho Kanho Birsha University, 857
+275, University of Burdwan, 836
+276, University of Calcutta, 832
+277, University of Gour Banga, 837
+278, University of Kalyani, 404
+279, University of North Bengal, 834
+280, Uttar Banga Krishi Vishwavidyalaya, 861
+281, Vidyasagar University, 861
+282, West Bengal State University, 836
+283, West Bengal National University of Juridical Sciences, 832
+284,Indian Institute of Technology, 349:399:656:707:763
