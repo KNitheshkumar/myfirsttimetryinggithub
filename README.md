@@ -1,6 +1,6 @@
 # Custom Django Models and Signals Documentation
 
-This document provides an overview and detailed documentation for the custom Django models and signals used in your project. These models and signals handle user authentication, user profiles, categories, products, orders, and more.
+This document provides an overview and detailed documentation for the custom Django models and signals used in this project. These models and signals handle user authentication, user profiles, categories, products, orders, and more.
 
 ## Custom User Authentication Models
 
@@ -95,4 +95,3 @@ These models are used to store information about customer orders, including purc
 
 - [Django Documentation](https://docs.djangoproject.com/): Refer to the official Django documentation for more information on models, signals, and authentication.
 
-Feel free to adapt and expand on this documentation as needed for your specific project's requirements.
